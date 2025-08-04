@@ -1,4 +1,5 @@
 ## Awesome Forge
+![](./media/awesome-forge-intro.png)
 
 > A list of awesome things related to [Atlassian Forge](https://developer.atlassian.com/platform/forge/).
 
@@ -6,11 +7,13 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Starter Template](#starter-template)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Articles](#articles)
+- [Awesome Forge](#awesome-forge)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Starter Template](#starter-template)
+  - [Official Examples](#official-examples)
+  - [Community Examples](#community-examples)
+  - [Articles](#articles)
 
 ---
 
