@@ -10,6 +10,7 @@
 - [Awesome Forge](#awesome-forge)
 - [Contents](#contents)
   - [Official Resources](#official-resources)
+  - [Community](#community)
   - [Starter Template](#starter-template)
   - [Official Examples](#official-examples)
   - [Community Examples](#community-examples)
@@ -20,6 +21,17 @@
 ### Official Resources
 
 - [Official Guide](https://developer.atlassian.com/platform/forge/)
+- [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/)
+- [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos)
+- [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
+- [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
+
+---
+
+### Community
+
+- [Developer Community](https://community.developer.atlassian.com/c/forge/45)
+- [Slack: Marketplace Clarity - Forge](https://marketplace-vendors.slack.com/archives/CMVD09M7U)
 
 ---
 
@@ -30,6 +42,8 @@
 ---
 
 ### Official Examples
+
+
 
 ---
 
