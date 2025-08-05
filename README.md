@@ -1,7 +1,10 @@
 ## Awesome Forge [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](./media/awesome-forge-intro.png)
 
-> A list of awesome things related to [Atlassian Forge](https://developer.atlassian.com/platform/forge/).
+> Curated list of libraries, examples, tools and learning material for building [Atlassian Forge](https://developer.atlassian.com/platform/forge/) apps ✨
+
+Forge lets you build secure, scalable apps for Jira, Confluence, and more without managing infrastructure. 
+Below you'll find everything you need to go from “Hello World” to Marketplace-ready.
 
 ---
 
@@ -11,7 +14,7 @@
 - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Community](#community)
-  - [Starter Template](#starter-template)
+  - [Starter Template](#starter-templates)
   - [Official Examples](#official-examples)
   - [Community Examples](#community-examples)
   - [Articles](#articles)
@@ -25,8 +28,10 @@
 - [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos)
   - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
 - ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge)
-- [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
-- [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
+- [Forge Roadmap](https://developer.atlassian.com/platform/forge/roadmap)
+- Cloud REST APIs
+  - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
+  - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
 - Tools / Libraries
   - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/)
   - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/)
@@ -45,11 +50,11 @@
 ### Community
 
 - [Developer Community](https://community.developer.atlassian.com/c/forge/45)
-- [Slack: Marketplace Clarity - Forge](https://marketplace-vendors.slack.com/archives/CMVD09M7U)
+- [Slack: Marketplace Clarity - Forge](https://marketplace-vendors.slack.com/archives/CMVD09M7U) - it’s only for Marketplace Partners and requires invite
 
 ---
 
-### Starter Template
+### Starter Templates
 
 - [Forge Starter](https://github.com/andrei-pisklenov/forge-starter) - TypeScript, React 19, Vite, Yarn monorepository, Shared packages
 
@@ -57,7 +62,7 @@
 
 ### Official Examples
 
-- [Example projects](https://bitbucket.org/atlassian/workspace/projects/FE)
+- [Official Examples (Bitbucket)](https://bitbucket.org/atlassian/workspace/projects/FE)
 
 ---
 
