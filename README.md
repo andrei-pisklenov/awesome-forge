@@ -63,6 +63,8 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 ### Official Examples
 
 - [Official Examples (Bitbucket)](https://bitbucket.org/atlassian/workspace/projects/FE) – Collection of reference implementations provided by Atlassian.
+  - [forge-jql-function-example](https://bitbucket.org/atlassian/forge-jql-function-example/src/master/) - Jira, JQL function
+  - 
 
 ---
 
