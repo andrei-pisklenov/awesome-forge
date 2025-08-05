@@ -1,4 +1,4 @@
-## Awesome Forge
+## Awesome Forge [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](./media/awesome-forge-intro.png)
 
 > A list of awesome things related to [Atlassian Forge](https://developer.atlassian.com/platform/forge/).
@@ -23,9 +23,22 @@
 - [Official Guide](https://developer.atlassian.com/platform/forge/)
 - [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/)
 - [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos)
+  - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
 - ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge)
 - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
 - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
+- Tools / Libraries
+  - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/)
+  - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/)
+  - [Custom UI docs](https://developer.atlassian.com/platform/forge/extend-ui-with-custom-options/)
+  - [Atlassian Design System](https://atlassian.design/)
+  - [Forge Tunnel](https://developer.atlassian.com/platform/forge/tunneling/)
+- Marketplace & Monetisation
+  - [Developer console](https://developer.atlassian.com/platform/forge/manage-your-apps/) - Manage your apps
+  - [Atlassian Marketplace Partner Program](https://developer.atlassian.com/platform/marketplace/marketplace-partner-program/) - Become a partner, who can share and sell their apps on Atlassian Marketplace
+- Security & Compliance
+  - [Security for Forge apps](https://developer.atlassian.com/platform/forge/security/)
+  - [Data residency](https://developer.atlassian.com/platform/forge/data-residency/)
 
 ---
 
@@ -56,7 +69,7 @@
 
 ### Articles
 
-- ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/)
+- ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) - End-to-end guide for Custom UI, error boundaries, deploy best-practices (2025-04).
 - ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2)
 - ["The basics of creating a Forge AI app" by Dugald Morrow](https://www.atlassian.com/blog/developer/forge-ai-basics)
 
