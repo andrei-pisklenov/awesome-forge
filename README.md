@@ -69,6 +69,8 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [forge-ui-kit-frame-project-logo-designer](https://bitbucket.org/atlassian/forge-ui-kit-frame-project-logo-designer/src) - Confluence, Macro, Global Page, UI Kit, External permissions.
   - [Question generator app - i18n for UI Kit](https://bitbucket.org/atlassian/question-generator-app-i18n-for-ui-kit/src) - Confluence, Macro, UI Kit, i18n.
   - [Forge UI Kit Frame Clean Slate](https://bitbucket.org/atlassian/forge-ui-kit-frame-clean-slate/src) - Confluence, Global Page, Frame, Custom UI in UI Kit.
+  - [Macro auto convert app for UI Kit](https://bitbucket.org/atlassian/macro-auto-convert-app-for-ui-kit/src/master/) - Confluence, Macro, Autoconvert, UI Kit.
+  - [book-management-typescript](https://bitbucket.org/atlassian/forge-sql-examples/src/main/book-management-typescript/) - Confluence, Macro, Forge SQL, Scheduled Trigger, App Trigger, Web Trigger, Eslint, TSConfig.
 
 ---
 
