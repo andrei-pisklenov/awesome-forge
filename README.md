@@ -24,47 +24,51 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 ### Official Resources
 
 - [Official Guide](https://developer.atlassian.com/platform/forge/) - Main hub for Forge development documentation.
-- [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/) – Learn about available modules you can use in Forge apps.
-- [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos) – Videos and tutorials directly from Atlassian engineers.
+- [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/) - Learn about available modules you can use in Forge apps.
+- [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos) - Videos and tutorials directly from Atlassian engineers.
   - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
-- ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge) – Official structured learning journey for developers.
+- ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge) - Official structured learning journey for developers.
 - [Forge Roadmap](https://developer.atlassian.com/platform/forge/roadmap) – See what's coming next for Forge.
 - Cloud REST APIs
   - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
   - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
 - Tools / Libraries
-  - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/) – Command-line tool for developing and deploying Forge apps.
-  - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/) – Build UIs quickly with pre-built Atlassian components.
-  - [Custom UI docs](https://developer.atlassian.com/platform/forge/extend-ui-with-custom-options/) – Build fully customized frontends using React.
-  - [Atlassian Design System](https://atlassian.design/) – Design guidelines and components for building Atlassian-like interfaces.
-  - [Forge Tunnel](https://developer.atlassian.com/platform/forge/tunneling/) – Enable live development and debugging of Forge apps.
+  - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/) - Command-line tool for developing and deploying Forge apps.
+  - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/) - Build UIs quickly with pre-built Atlassian components.
+  - [Custom UI docs](https://developer.atlassian.com/platform/forge/extend-ui-with-custom-options/) - Build fully customized frontends using React.
+  - [Atlassian Design System](https://atlassian.design/) - Design guidelines and components for building Atlassian-like interfaces.
+  - [Forge Tunnel](https://developer.atlassian.com/platform/forge/tunneling/) - Enable live development and debugging of Forge apps.
 - Marketplace & Monetisation
   - [Developer console](https://developer.atlassian.com/platform/forge/manage-your-apps/) - Manage your Forge apps and track metrics.
-  - 💰 [Atlassian Marketplace Partner Program](https://developer.atlassian.com/platform/marketplace/marketplace-partner-program/) – Learn how to publish and monetize your apps.
+  - 💰 [Atlassian Marketplace Partner Program](https://developer.atlassian.com/platform/marketplace/marketplace-partner-program/) - Learn how to publish and monetize your apps.
 - Security & Compliance
-  - [Security for Forge apps](https://developer.atlassian.com/platform/forge/security/) – Best practices and security models.
-  - [Data residency](https://developer.atlassian.com/platform/forge/data-residency/) – Understand where customer data is stored and how to comply.
+  - [Security for Forge apps](https://developer.atlassian.com/platform/forge/security/) - Best practices and security models.
+  - [Data residency](https://developer.atlassian.com/platform/forge/data-residency/) - Understand where customer data is stored and how to comply.
 
 ---
 
 ### Community
 
-- [Developer Community](https://community.developer.atlassian.com/c/forge/45) – Ask questions and share knowledge with other Forge developers.
-- [Slack: Marketplace Clarity - Forge](https://marketplace-vendors.slack.com/archives/CMVD09M7U) – Private Slack for Marketplace Partners (invite required).
+- [Developer Community](https://community.developer.atlassian.com/c/forge/45) - Ask questions and share knowledge with other Forge developers.
+- [Slack: Marketplace Clarity - Forge](https://marketplace-vendors.slack.com/archives/CMVD09M7U) - Private Slack for Marketplace Partners (invite required).
 
 ---
 
 ### Starter Templates
 
-- [Forge Starter](https://github.com/andrei-pisklenov/forge-starter) – TypeScript + React 19 + Vite monorepo with shared packages and build tooling. Great for scaling multiple apps.
+- [Forge Starter](https://github.com/andrei-pisklenov/forge-starter) - TypeScript + React 19 + Vite, yarn monorepo with shared packages and build tooling. Great for scaling multiple apps.
 
 ---
 
 ### Official Examples
 
 - [Official Examples (Bitbucket)](https://bitbucket.org/atlassian/workspace/projects/FE) – Collection of reference implementations provided by Atlassian.
-  - [forge-jql-function-example](https://bitbucket.org/atlassian/forge-jql-function-example/src/master/) - Jira, JQL function
-  - 
+  - [forge-jql-function-example](https://bitbucket.org/atlassian/forge-jql-function-example/src/master/) - Jira, JQL function.
+  - [Forge Issue Countries](https://bitbucket.org/atlassian/forge-issue-countries/src/master/) - Jira, UI Kit, Issue Panel, REST calls.
+  - [Forge UI modifications example](https://bitbucket.org/atlassian/forge-ui-modifications-example/src/master/) - Jira, UI Modifications, multiple Custom Ui's.
+  - [forge-ui-kit-frame-project-logo-designer](https://bitbucket.org/atlassian/forge-ui-kit-frame-project-logo-designer/src) - Confluence, Macro, Global Page, UI Kit, External permissions.
+  - [Question generator app - i18n for UI Kit](https://bitbucket.org/atlassian/question-generator-app-i18n-for-ui-kit/src) - Confluence, Macro, UI Kit, i18n.
+  - [Forge UI Kit Frame Clean Slate](https://bitbucket.org/atlassian/forge-ui-kit-frame-clean-slate/src) - Confluence, Global Page, Frame, Custom UI in UI Kit.
 
 ---
 
