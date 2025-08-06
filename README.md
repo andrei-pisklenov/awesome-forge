@@ -76,22 +76,22 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 ### Articles
 
-- 🎓 [Getting Started with Forge](https://developer.atlassian.com/cloud/jira/software/getting-started-with-forge/)  
+- [Getting Started with Forge](https://developer.atlassian.com/cloud/jira/software/getting-started-with-forge/)  
   Official beginner tutorial for building your first Forge app in Jira, Confluence, or JSM.
-- 🎓 [Automate Jira with Triggers](https://developer.atlassian.com/platform/forge/tutorials-and-guides/)  
+- [Automate Jira with Triggers](https://developer.atlassian.com/platform/forge/tutorials-and-guides/)  
   Learn to respond to Jira issue events with Forge triggers and backend functions.
-- 🎓 [Build a Custom UI App (Confluence or Jira)](https://developer.atlassian.com/platform/forge/tutorials-and-guides/)  
+- [Build a Custom UI App (Confluence or Jira)](https://developer.atlassian.com/platform/forge/tutorials-and-guides/)  
   A practical walkthrough for building apps using Custom UI in Forge.
-- 🎓 ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
-- 🎓 ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
-- 🎓 ["The basics of creating a Forge AI app" by Dugald Morrow](https://www.atlassian.com/blog/developer/forge-ai-basics) – Quickstart for building apps that leverage AI in Forge (September 2023).
-- 🎓 [Kickstart Your Next App: Tips for Developing on Forge](https://www.atlassian.com/blog/it-teams/kickstart-your-next-app-tips-for-developing-on-forge)  
+- ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
+- ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
+- ["The basics of creating a Forge AI app" by Dugald Morrow](https://www.atlassian.com/blog/developer/forge-ai-basics) – Quickstart for building apps that leverage AI in Forge (September 2023).
+- [Kickstart Your Next App: Tips for Developing on Forge](https://www.atlassian.com/blog/it-teams/kickstart-your-next-app-tips-for-developing-on-forge)  
   Real-world tips comparing Custom UI vs UI Kit, deployment, and tooling strategies (January 2022).
-- 🎓 [Three Lessons from Building 80 Forge Apps](https://www.atlassian.com/blog/developer/forge-on-forge-three-lessons-we-learned-building-80-forge-apps)  
+- [Three Lessons from Building 80 Forge Apps](https://www.atlassian.com/blog/developer/forge-on-forge-three-lessons-we-learned-building-80-forge-apps)  
   Lessons from Atlassian’s internal team after building dozens of Forge apps (October 2022).
-- 🛡 [How to Build Observability for Forge Applications](https://www.easyagile.com/blog/how-to-build-observability-for-atlassian-forge-applications)  
+- [How to Build Observability for Forge Applications](https://www.easyagile.com/blog/how-to-build-observability-for-atlassian-forge-applications)  
   Logging, metrics, and monitoring best practices for production-grade Forge apps (March 2025).
-- 🎓 [Why Use Atlassian Forge? Benefits, Pricing & Use Cases](https://titanapps.io/blog/atlassian-forge)  
+- [Why Use Atlassian Forge? Benefits, Pricing & Use Cases](https://titanapps.io/blog/atlassian-forge)  
   High-level overview comparing Forge with other frameworks and monetization options (March 2025).
 
 ---
