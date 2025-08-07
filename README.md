@@ -1,4 +1,5 @@
-## Awesome Forge [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Forge 
+![Awesome](https://awesome.re/badge.svg)
 ![](./media/awesome-forge-intro.png)
 
 > Curated list of libraries, examples, tools and learning material for building [Atlassian Forge](https://developer.atlassian.com/platform/forge/) apps ✨
