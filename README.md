@@ -73,7 +73,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [Forge UI Kit Frame Clean Slate](https://bitbucket.org/atlassian/forge-ui-kit-frame-clean-slate/src) - Confluence, Global Page, Frame, Custom UI in UI Kit.
   - [Macro auto convert app for UI Kit](https://bitbucket.org/atlassian/macro-auto-convert-app-for-ui-kit/src/master/) - Confluence, Macro, Autoconvert, UI Kit.
   - [book-management-typescript](https://bitbucket.org/atlassian/forge-sql-examples/src/main/book-management-typescript/) - Confluence, Macro, Forge SQL, Scheduled Trigger, App Trigger, Web Trigger, Eslint, TSConfig.
-- [Official Examples (Github)](https://github.com/atlassian-labs) - Atlassian Labs account with various examples and libraries, including a few Forge.
+- [Official Examples (Github)](https://github.com/atlassian-labs) - Atlassian Labs' GitHub repository featuring various examples and libraries, including several Forge-related projects.
   - [Issue Status Helper](https://github.com/atlassian-labs/issue-status-helper) - Jira, Trigger, Admin Page, Project Page, Custom UI, Jira REST API (requestJira), Storage (old).
 
 ---
