@@ -1,5 +1,5 @@
 ## Awesome Forge 
-![Awesome](https://awesome.re/badge.svg)
+![Awesome](https://awesome.re/badge.svg) [![Linkspector](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml/badge.svg)](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml)
 ![](./media/awesome-forge-intro.png)
 
 > Curated list of libraries, examples, tools and learning material for building [Atlassian Forge](https://developer.atlassian.com/platform/forge/) apps ✨
