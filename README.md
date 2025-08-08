@@ -1,5 +1,5 @@
 ## Awesome Forge 
-![Awesome](https://awesome.re/badge.svg) [![Linkspector](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml/badge.svg)](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml)
+![Awesome](https://awesome.re/badge.svg) [![Linkspector](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml/badge.svg)](https://github.com/andrei-pisklenov/awesome-forge/actions/workflows/action.yml) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 ![](./media/awesome-forge-intro.png)
 
 > Curated list of libraries, examples, tools and learning material for building [Atlassian Forge](https://developer.atlassian.com/platform/forge/) apps ✨
