@@ -30,6 +30,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
 - ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge) - Official structured learning journey for developers.
 - [Forge Roadmap](https://developer.atlassian.com/platform/forge/roadmap) – See what's coming next for Forge.
+- [Changelog](https://developer.atlassian.com/platform/forge/changelog/) - The source of truth for all changes to the Forge platform that affect people developing Forge apps.
 - Cloud REST APIs
   - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
   - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
