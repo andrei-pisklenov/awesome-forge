@@ -25,6 +25,9 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 ### Official Resources
 
 - [Official Guide](https://developer.atlassian.com/platform/forge/) - Main hub for Forge development documentation.
+  - [Getting Started with Forge](https://developer.atlassian.com/cloud/jira/software/getting-started-with-forge/) - Official beginner tutorial for building your first Forge app in Jira, Confluence, or JSM.
+  - [Automate Jira with Triggers](https://developer.atlassian.com/platform/forge/tutorials-and-guides/) - Learn to respond to Jira issue events with Forge triggers and backend functions.
+  - [Build a Custom UI App (Confluence or Jira)](https://developer.atlassian.com/platform/forge/tutorials-and-guides/) - A practical walkthrough for building apps using Custom UI in Forge.
 - [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/) - Learn about available modules you can use in Forge apps.
 - [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos) - Videos and tutorials directly from Atlassian engineers.
   - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
@@ -93,9 +96,6 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 ### Articles
 
-- [Getting Started with Forge](https://developer.atlassian.com/cloud/jira/software/getting-started-with-forge/) - Official beginner tutorial for building your first Forge app in Jira, Confluence, or JSM.
-- [Automate Jira with Triggers](https://developer.atlassian.com/platform/forge/tutorials-and-guides/) - Learn to respond to Jira issue events with Forge triggers and backend functions.
-- [Build a Custom UI App (Confluence or Jira)](https://developer.atlassian.com/platform/forge/tutorials-and-guides/) - A practical walkthrough for building apps using Custom UI in Forge.
 - ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
 - ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
 - ["The basics of creating a Forge AI app" by Dugald Morrow](https://www.atlassian.com/blog/developer/forge-ai-basics) – Quickstart for building apps that leverage AI in Forge (September 2023).
