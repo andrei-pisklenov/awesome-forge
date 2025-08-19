@@ -43,6 +43,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/) - Command-line tool for developing and deploying Forge apps.
   - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/) - Build UIs quickly with pre-built Atlassian components.
   - [Custom UI docs](https://developer.atlassian.com/platform/forge/extend-ui-with-custom-options/) - Build fully customized frontends using React.
+  - [Atlaskit](https://atlaskit.atlassian.com/) - Official UI component library for building interfaces that feel native to Atlassian products.
   - [Atlassian Design System](https://atlassian.design/) - Design guidelines and components for building Atlassian-like interfaces.
   - [Forge Tunnel](https://developer.atlassian.com/platform/forge/tunneling/) - Enable live development and debugging of Forge apps.
 - Marketplace & Monetisation
