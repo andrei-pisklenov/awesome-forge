@@ -34,6 +34,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 - Cloud REST APIs
   - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
   - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
+  - [Bitbucket REST API](https://developer.atlassian.com/cloud/bitbucket/rest/intro)
 - Tools / Libraries
   - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/) - Command-line tool for developing and deploying Forge apps.
   - [UI Kit docs](https://developer.atlassian.com/platform/forge/ui-kit/) - Build UIs quickly with pre-built Atlassian components.
