@@ -30,7 +30,8 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [Build a Custom UI App (Confluence or Jira)](https://developer.atlassian.com/platform/forge/tutorials-and-guides/) - A practical walkthrough for building apps using Custom UI in Forge.
 - [Forge Modules](https://developer.atlassian.com/platform/forge/manifest-reference/modules/) - Learn about available modules you can use in Forge apps.
 - [Youtube: Atlassian Developer channel](https://www.youtube.com/@AtlassianDeveloper/videos) - Videos and tutorials directly from Atlassian engineers.
-  - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling 
+  - [Patterns for Integrating Forge with External Services](https://www.youtube.com/watch?v=IsxVoOK7wH0) - queues, remotes, and event handling.
+  - [Atlassian presents Forge in 5](https://www.youtube.com/watch?v=34HHK58nvVA) - Atlassian presents Forge in 5 | Episode 1: Intro to building Atlassian apps.
 - ["Get the most out of Forge" learning path](https://community.atlassian.com/learning/path/get-the-most-out-of-forge) - Official structured learning journey for developers.
 - [Forge Roadmap](https://developer.atlassian.com/platform/forge/roadmap) – See what's coming next for Forge.
 - [Changelog](https://developer.atlassian.com/platform/forge/changelog/) - The source of truth for all changes to the Forge platform that affect people developing Forge apps.
