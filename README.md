@@ -36,8 +36,8 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 - [Forge Roadmap](https://developer.atlassian.com/platform/forge/roadmap) – See what's coming next for Forge.
 - [Changelog](https://developer.atlassian.com/platform/forge/changelog/) - The source of truth for all changes to the Forge platform that affect people developing Forge apps.
 - Cloud REST APIs
-  - [Jira REST API](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
-  - [Confluence REST API](https://developer.atlassian.com/cloud/confluence/rest/v2)
+  - [Jira REST API v3](https://developer.atlassian.com/cloud/jira/platform/rest/v3), [v2](https://developer.atlassian.com/cloud/jira/platform/rest/v2/intro/)
+  - [Confluence REST API v2](https://developer.atlassian.com/cloud/confluence/rest/v2), [v1](https://developer.atlassian.com/cloud/confluence/rest/v1/intro/)
   - [Bitbucket REST API](https://developer.atlassian.com/cloud/bitbucket/rest/intro)
 - Tools / Libraries
   - [Forge CLI](https://developer.atlassian.com/platform/forge/cli-reference/) - Command-line tool for developing and deploying Forge apps.
