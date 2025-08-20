@@ -93,6 +93,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [custom-field-attachments-size](https://github.com/andrei-pisklenov/forge-by-example/tree/main/custom-field-attachments-size) - Jira, Custom Field, Jira REST API.
   - [performance-checks](https://github.com/andrei-pisklenov/forge-by-example/tree/main/performance-checks) - Jira, Webtrigger, Entity Properties, Storage (old).
 - [Forge Todo App with Privacy-First Analytics](https://github.com/sherlockscore/forge-todo-example-with-analytics-app) - Jira, Issue Panel, Scheduled Trigger, Async Event, External Permissions, Custom UI, kvs.
+- [forge-trpc](https://github.com/toolsplus/forge-trpc) - Forge tRPC provides a custom tRCP adapter and a custom tRPC link to enable tRPC on Atlassian Forge apps.
 
 ---
 
