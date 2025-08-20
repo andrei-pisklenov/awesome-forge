@@ -100,6 +100,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 - ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
 - ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
+- [Scaling Forge Apps for High Data Volumes](https://www.opusguard.com/post/scaling-forge-apps-for-high-data-volumes) - REST API, pagination, rate limits, forge execution time, Async Events (February 2025).
 - ["The basics of creating a Forge AI app" by Dugald Morrow](https://www.atlassian.com/blog/developer/forge-ai-basics) – Quickstart for building apps that leverage AI in Forge (September 2023).
 - [Kickstart Your Next App: Tips for Developing on Forge](https://www.atlassian.com/blog/it-teams/kickstart-your-next-app-tips-for-developing-on-forge) - Real-world tips comparing Custom UI vs UI Kit, deployment, and tooling strategies (January 2022).
 - [Three Lessons from Building 80 Forge Apps](https://www.atlassian.com/blog/developer/forge-on-forge-three-lessons-we-learned-building-80-forge-apps) - Lessons from Atlassian’s internal team after building dozens of Forge apps (October 2022).
