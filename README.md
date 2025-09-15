@@ -100,6 +100,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 ### Articles
 
+- ["Rethinking UX: how Opus Guard built AI-assisted Data Governance with Rovo and Forge" by Dr. Shu Shen](https://www.atlassian.com/blog/developer/rethinking-ux-how-opus-guard-built-ai-assisted-data-governance-with-rovo-and-forge) - Rovo Agents and Rovo Actions modules (September 2025).
 - ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
 - ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
 - [Scaling Forge Apps for High Data Volumes](https://www.opusguard.com/post/scaling-forge-apps-for-high-data-volumes) - REST API, pagination, rate limits, forge execution time, Async Events (February 2025).
