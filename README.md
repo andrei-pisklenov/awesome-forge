@@ -19,6 +19,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
   - [Official Examples](#official-examples)
   - [Community Examples](#community-examples)
   - [Articles](#articles)
+  - [Other resourcer](#other-resources)
 
 ---
 
