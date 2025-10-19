@@ -114,4 +114,11 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 ---
 
+### Other resources
+
+- [All Forge apps on one list](https://www.forge-apps.com) - A directory of Forge-built Atlassian apps, with filters for readiness, RoA, and more.
+- [The Ampin App, deep insights into the Atlassian community](https://ampin.app) - A site that estimates Atlassian Marketplace app revenue and calculates a weighted top rating based on public installation data and proprietary statistical modeling.
+
+---
+
 > 💡 Do you know a useful resource, template, or example? Feel free to open a PR and contribute to this list!
