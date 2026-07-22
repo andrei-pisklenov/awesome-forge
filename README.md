@@ -102,6 +102,7 @@ Below you'll find everything you need to go from “Hello World” to Marketplac
 
 ### Articles
 
+- ["Lessons from Building a Jira Bulk Operations App on Atlassian Forge" by Kyle Twogood](https://magratheasoftware.com/blog/building-a-jira-bulk-operations-app-on-forge.html) - Function-based queue consumer payload gotcha, idempotent event chaining for long runs, 429 rescheduling via delayInSeconds, JQL editor autocomplete in Custom UI (July 2026).
 - ["Rethinking UX: how Opus Guard built AI-assisted Data Governance with Rovo and Forge" by Dr. Shu Shen](https://www.atlassian.com/blog/developer/rethinking-ux-how-opus-guard-built-ai-assisted-data-governance-with-rovo-and-forge) - Rovo Agents and Rovo Actions modules (September 2025).
 - ["Forge Explained: Supercharge Jira Work Item with Custom Actions" by Andrei Pisklenov](https://www.linkedin.com/pulse/forge-explained-supercharge-jira-work-item-custom-andrei-pisklenov-jgkwf/) – A deep dive into Custom UI, deploy best practices, and error handling (April 2025).
 - ["Building an enterprise-grade Jira bulk operations Forge app" by Dugald Morrow](https://www.atlassian.com/blog/developer/building-an-enterprise-grade-jira-bulk-operations-forge-app-2) – Case study on architecture and scaling strategies (July 2025).
